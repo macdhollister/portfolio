@@ -77,6 +77,11 @@ header {
     margin: 20px auto;
 }
 
+.project_separator {
+    margin: 20px auto;
+    width: 75%;
+}
+
 #profile_picture {
     width: 180px;
     height: 180px;
@@ -94,7 +99,7 @@ header {
 
 .project {
     width: 95%;
-    margin: auto;
+    margin: 20px auto;
 }
 
 .projectContent {
