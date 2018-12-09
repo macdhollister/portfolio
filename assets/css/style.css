@@ -71,6 +71,7 @@ header {
 .section_text {
     font-size: 20px;
     line-height: 1.5;
+    overflow: hidden;
 }
 
 .section_separator {
