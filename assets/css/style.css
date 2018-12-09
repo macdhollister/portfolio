@@ -117,7 +117,6 @@ header {
 }
 
 @media screen and (max-width: 980px) {
-
     .section {
         max-width: 90%;
     }
@@ -141,43 +140,6 @@ header {
     }
 }
 
-@media screen and (max-width: 768px) {
-    #header_container {
-        width: 100%;
-        padding-left: 0;
-        padding-right: 0;
-    }
-
-    #my_header {
-        width: 100%;
-    }
-
-    #header_links {
-        padding-right: 5%;
-    }
-
-    #main_section {
-        width: 90%;
-    }
-
-    .portfolio_image_container {
-        width: 50%;
-        margin: 0 0 10%;
-        padding: 0;
-    }
-
-    .portfolio_image {
-        width: 90%;
-        height: auto;
-        padding: 0 5%;
-    }
-
-    .portfolio_image_text {
-        width: 90%;
-        margin-left: 5%;
-    }
-}
-
 @media screen and (max-width: 640px) {
     header {
         position: static;
@@ -198,14 +160,6 @@ header {
     #profile_picture {
         width: 100%;
         height: auto;
-    }
-
-    #footer_container {
-        position: static;
-    }
-
-    .portfolio_image_container {
-        width: 100%;
     }
 
     .projectImg {
